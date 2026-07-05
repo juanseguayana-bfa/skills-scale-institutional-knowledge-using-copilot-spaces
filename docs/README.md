@@ -38,6 +38,7 @@ Cross-cutting the full lifecycle, communication is managed through a regular cad
 |---|---|
 | [Project Management Overview](octoacme-project-management-overview.md) | Principles, core roles, key artifacts, lifecycle summary, and communication cadence |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and goals for each role |
+| [Role Alignment and Handoffs](octoacme-role-alignment-and-handoffs.md) | RACI-lite template plus kickoff/release handoff checklists for clearer accountability |
 
 ### 🚀 Lifecycle Phases
 

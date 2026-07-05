@@ -26,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Role Alignment and Handoff Checklist
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
